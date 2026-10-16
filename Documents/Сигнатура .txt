@@ -1,0 +1,1 @@
+ContourLayer withEdge(const ContourLayer& layer1, const ContourLayer& layer2, const ConstrParams * params = nullptr);
